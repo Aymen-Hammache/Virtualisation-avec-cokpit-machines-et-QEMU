@@ -1,5 +1,5 @@
 
-# Virtualisation avec cokpit machines
+# Virtualisation avec cokpit machines et QEMU
 
 Dans ce tutoriel, je vais vous expliquer comment faire de la Virtualisation avec QEMU et cockpit machines
 
