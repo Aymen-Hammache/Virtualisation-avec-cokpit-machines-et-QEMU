@@ -80,14 +80,14 @@ En haut de la page, __pensez à bien activer le mode administrateur__  (vous ave
 
 Dans le menu à gauche, vous pouvez constater qu'il y a un onglet "machines virtuelles" cliquez dessus !
 
-![Aperçu](images/aperçu.png "Menu apperçu de cockpit")
+![Aperçu](images/aperçu.png)
 
 Ensuite, cliquez sur le boutton "créer une machine virtuelle"
 
-![MV](images/Machinevirtuelles.png "Menu machines virtuelles de cockpit")
+![MV](images/Machinevirtuelles.png)
 
 Vous verrez une fenêtre apparaître vous invitant à donner les spécificités de votre machine virtuelle.
 
-![Conf MV](images/Créationmachinevirtuelle.png "Configuration de la  machine virtuelle")
+![Conf MV](images/Créationmachinevirtuelle.png)
 
 Une fois cela fait, cliquez sur "créer nouveau et exécuter" votre VM devrait s'éxecuter et vous serez en capacité de faire de la virtualisation sur votre serveur avec cockpit !
